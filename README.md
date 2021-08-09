@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Data structures and algorithms
-- 🌱 I’m currently learning Python
-- 💬 Ask me about C and C++
+- 🌱 I’m currently learning Discord bot making
+- 💬 Ask me about C, C++ and basic Python
 - 📫 How to reach me: sarbottamchatterjee1775@gmail.com
 <!--
 **import-sarbottam/import-sarbottam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
