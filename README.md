@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data structures and algorithms
-- 🌱 I’m currently learning front end
-- 💬 Ask me about C, C++ and basic Python,DSA
+- 🔭 I’m currently working on creating my portfolio website.
+- 🌱 I’m currently learning RTK Query and Zustland.
+- 💬 Ask me about Python, basic DSA, DBMS, backend concepts.
 - 📫 How to reach me: sarbottamchatterjee1775@gmail.com
 <!--
 **import-sarbottam/import-sarbottam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
